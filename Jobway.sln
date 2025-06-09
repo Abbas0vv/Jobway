@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jobway.Core", "jobway.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jobway.BL", "jobway.BL\jobway.BL.csproj", "{35376876-1CE1-4C26-B2A0-115C524D8D18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jobway.Web", "jobway.Web\jobway.Web.csproj", "{12106281-F8F8-49CD-B1A3-AC79B35A0179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{35376876-1CE1-4C26-B2A0-115C524D8D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35376876-1CE1-4C26-B2A0-115C524D8D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35376876-1CE1-4C26-B2A0-115C524D8D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12106281-F8F8-49CD-B1A3-AC79B35A0179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12106281-F8F8-49CD-B1A3-AC79B35A0179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12106281-F8F8-49CD-B1A3-AC79B35A0179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12106281-F8F8-49CD-B1A3-AC79B35A0179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
